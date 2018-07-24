@@ -14,7 +14,7 @@
   font-family: 'Montserrat-reg';
   src: url('../fonts/fonts/Montserrat-Regular.eot');
   src: url('../fonts/fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/fonts/Montserrat-Regular.woff2') format('woff2'),
+  url('../fonts/fonts/Montserrat-Regular.,9woff2') format('woff2'),
   url('../fonts/fonts/Montserrat-Regular.woff') format('woff'),
   url('../fonts/fonts/Montserrat-Regular.ttf') format('truetype'),
   url('../fonts/fonts/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
@@ -61,4 +61,7 @@
 $primary-font: 'Noto Sans';
 $caps-font: 'Montserrat-reg';
 $bold-font: 'Montserrat-med';
+$semi-font: 'Montserrat-semi';
+$caps-bold : 'Montserrat-bold';
+
 

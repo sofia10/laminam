@@ -214,7 +214,7 @@ p{
       width: 40px;
       height: 40px;
       border: 1px solid #d9d9d9;
-      @include display-flex
+      @include display-flex;
       @include flex-direction(column);
       @include align-items(center);
       @include justify-content(center);

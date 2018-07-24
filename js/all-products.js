@@ -16,7 +16,6 @@ var myScreenWidth = $(document).width();
 if(myScreenWidth <= 991) {
     $('.filter').removeClass('active');
 }
-console.log(myScreenWidth);
 
 var swiper = new Swiper('.swiper-container', {
     slidesPerView: 7,

@@ -1,23 +1,23 @@
 @font-face {
-  font-family: 'Montserrat-bold';
-  src: url('../fonts/fonts/Montserrat-Bold.eot');
-  src: url('../fonts/fonts/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/fonts/Montserrat-Bold.woff2') format('woff2'),
-  url('../fonts/fonts/Montserrat-Bold.woff') format('woff'),
-  url('../fonts/fonts/Montserrat-Bold.ttf') format('truetype'),
-  url('../fonts/fonts/Montserrat-Bold.svg#Montserrat-Bold') format('svg');
-  font-weight: bold;
+  font-family: 'grammatika';
+  src: url('../fonts/fonts/ASGrammatika.eot');
+  src: url('../fonts/fonts/ASGrammatika.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/fonts/ASGrammatika.woff2') format('woff2'),
+  url('../fonts/fonts/ASGrammatikawoff') format('woff'),
+  url('../fonts/fonts/ASGrammatika.ttf') format('truetype'),
+  url('../fonts/fonts/ASGrammatika.svg#ASGrammatikaGeoMtavruli1') format('svg');
+  font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Montserrat-reg';
-  src: url('../fonts/fonts/Montserrat-Regular.eot');
-  src: url('../fonts/fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
-  url('../fonts/fonts/Montserrat-Regular.woff2') format('woff2'),
-  url('../fonts/fonts/Montserrat-Regular.woff') format('woff'),
-  url('../fonts/fonts/Montserrat-Regular.ttf') format('truetype'),
-  url('../fonts/fonts/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+  font-family: 'excelsior';
+  src: url('../fonts/fonts/excelsior.eot');
+  src: url('../fonts/fonts/excelsior.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/fonts/excelsior.woff2') format('woff2'),
+  url('../fonts/fonts/excelsior.woff') format('woff'),
+  url('../fonts/fonts/excelsior.ttf') format('truetype'),
+  url('../fonts/fonts/excelsior.svg#BPGExcelsior') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -58,9 +58,9 @@
 }
 
 
-$primary-font: 'Noto Sans';
-$caps-font: 'Montserrat-reg';
-$bold-font: 'Montserrat-med';
-$semi-font: 'Montserrat-semi';
-$caps-bold : 'Montserrat-bold';
+$primary-font: 'excelsior';
+$caps-font: 'grammatika';
+$bold-font: 'grammatika';
+$semi-font: 'grammatika';
+$caps-bold : 'grammatika';
 
